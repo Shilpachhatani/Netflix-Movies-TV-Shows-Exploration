@@ -113,8 +113,8 @@ My approach to exploring the Netflix dataset involved the following steps:
 ## 🧪 Usage
 
 ```bash
-# 1. Clone the repository (assuming this notebook is part of a larger repository)
-git clone https://github.com/AhsanNFt/Netflix-Movies-TV-Shows-Exploration.git
+# 1. Clone the repository 
+git clone https://github.com/Shilpachhatani/Netflix-Movies-TV-Shows-Exploration.git
 
 # 2. Navigate to the project directory
 cd Netflix-Movies-TV-Shows-Exploration
@@ -131,6 +131,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: `AhsanNFt`
-- Email: syedahsan0991@gmail.com
+- GitHub: `Shilpachhatani`
+- Email: shilpachhatani669@gmail.com
 
