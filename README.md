@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview & Task Objective
 
-This `Netflix_Movies_TV_Shows_Exploration_Dev.ipynb` explores the Netflix Movies and TV Shows dataset to uncover insights such as content distribution over time, type proportions (Movie vs TV Show), genre popularity, rating categories, content-producing countries, and content durations. The primary objective is to understand Netflix's content strategy using exploratory data analysis (EDA).
+This `Netflix_Movies_TV_Shows_Exploration_Main.ipynb` explores the Netflix Movies and TV Shows dataset to uncover insights such as content distribution over time, type proportions (Movie vs TV Show), genre popularity, rating categories, content-producing countries, and content durations. The primary objective is to understand Netflix's content strategy using exploratory data analysis (EDA).
 
 ## 📂 Dataset Information
 
